@@ -2,5 +2,5 @@
 Landing Page with smooth scroll on React
 <br>#URL:https://altperson.github.io/reactWebsite/
 <br>#BRANCHES:
-  MASTER - Source code of Project
-  GH-PAGES - Builded version
+<br>MASTER - Source code of Project
+<br>GH-PAGES - Builded version
