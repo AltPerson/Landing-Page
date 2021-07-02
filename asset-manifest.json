@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/reactWebsite/static/css/main.f1dc45d5.chunk.css",
+    "main.js": "/reactWebsite/static/js/main.b0b070d3.chunk.js",
+    "main.js.map": "/reactWebsite/static/js/main.b0b070d3.chunk.js.map",
+    "runtime-main.js": "/reactWebsite/static/js/runtime-main.8ae6290c.js",
+    "runtime-main.js.map": "/reactWebsite/static/js/runtime-main.8ae6290c.js.map",
+    "static/js/2.2a94e569.chunk.js": "/reactWebsite/static/js/2.2a94e569.chunk.js",
+    "static/js/2.2a94e569.chunk.js.map": "/reactWebsite/static/js/2.2a94e569.chunk.js.map",
+    "index.html": "/reactWebsite/index.html",
+    "static/css/main.f1dc45d5.chunk.css.map": "/reactWebsite/static/css/main.f1dc45d5.chunk.css.map",
+    "static/js/2.2a94e569.chunk.js.LICENSE.txt": "/reactWebsite/static/js/2.2a94e569.chunk.js.LICENSE.txt",
+    "static/media/bot-shape.8f2d4caa.png": "/reactWebsite/static/media/bot-shape.8f2d4caa.png",
+    "static/media/bottom-shape-2.286541c8.png": "/reactWebsite/static/media/bottom-shape-2.286541c8.png",
+    "static/media/bottom-shape-4.b5778f05.png": "/reactWebsite/static/media/bottom-shape-4.b5778f05.png",
+    "static/media/bottom-shape-hero.c08631f4.png": "/reactWebsite/static/media/bottom-shape-hero.c08631f4.png",
+    "static/media/facebook.bd412e26.svg": "/reactWebsite/static/media/facebook.bd412e26.svg",
+    "static/media/hero-bg.9a4e6f38.png": "/reactWebsite/static/media/hero-bg.9a4e6f38.png",
+    "static/media/instagram.1f71acfa.svg": "/reactWebsite/static/media/instagram.1f71acfa.svg",
+    "static/media/logo.db29279d.png": "/reactWebsite/static/media/logo.db29279d.png",
+    "static/media/motivation-bg.72582b56.png": "/reactWebsite/static/media/motivation-bg.72582b56.png",
+    "static/media/move-image-1.aef1be7e.png": "/reactWebsite/static/media/move-image-1.aef1be7e.png",
+    "static/media/move-image-2.39042376.png": "/reactWebsite/static/media/move-image-2.39042376.png",
+    "static/media/move-image-3.b377dd6f.png": "/reactWebsite/static/media/move-image-3.b377dd6f.png",
+    "static/media/offer-image-1.60a24ac4.png": "/reactWebsite/static/media/offer-image-1.60a24ac4.png",
+    "static/media/offer-image-2.cdc1720d.png": "/reactWebsite/static/media/offer-image-2.cdc1720d.png",
+    "static/media/shadow.c52147ff.png": "/reactWebsite/static/media/shadow.c52147ff.png",
+    "static/media/tip-bg.67b76388.png": "/reactWebsite/static/media/tip-bg.67b76388.png",
+    "static/media/top-shape-2.0ee7822a.png": "/reactWebsite/static/media/top-shape-2.0ee7822a.png",
+    "static/media/top-shape-3.81ca1fbe.png": "/reactWebsite/static/media/top-shape-3.81ca1fbe.png",
+    "static/media/top-shape-4.0d76318c.png": "/reactWebsite/static/media/top-shape-4.0d76318c.png",
+    "static/media/top-shape-hero.cf1e5e32.png": "/reactWebsite/static/media/top-shape-hero.cf1e5e32.png",
+    "static/media/top-shape.a1f9f447.png": "/reactWebsite/static/media/top-shape.a1f9f447.png",
+    "static/media/twitter.7de0079e.svg": "/reactWebsite/static/media/twitter.7de0079e.svg",
+    "static/media/whatsap.61d9d0c5.svg": "/reactWebsite/static/media/whatsap.61d9d0c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae6290c.js",
+    "static/js/2.2a94e569.chunk.js",
+    "static/css/main.f1dc45d5.chunk.css",
+    "static/js/main.b0b070d3.chunk.js"
+  ]
+}
