@@ -69,7 +69,6 @@ function Navbar({ toggleSidebar }) {
                 type="search"
                 maxLength={10}
                 onChange={(e) => {
-                  console.log(e);
                   setInput(e.target.value);
                 }}
                 value={input}

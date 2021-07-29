@@ -16,7 +16,7 @@ export const SidebarContainer = styled.aside`
   align-items: center;
   left: 0;
   transition: 0.3s ease-in-out;
-  opacity: 50%;
+  opacity: 100%;
   display: ${({ isOpen }) => (isOpen ? "block" : "none")};
   top: ${({ isOpen }) => (isOpen ? "0" : "-100%")};
 `;

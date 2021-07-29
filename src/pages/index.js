@@ -22,7 +22,7 @@ export default function Home() {
   };
   return (
     <>
-      <Sidebar toggleSidebar={toggleSidebar} />
+      <Sidebar toggleSidebar={toggleSidebar} isOpen={isOpen} />
       <Navbar toggleSidebar={toggleSidebar} />
       <HeroSection />
       <MoveSection cards={cards} />

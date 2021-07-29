@@ -13,6 +13,8 @@ import {
 } from "./SidebarElement";
 
 function SidebarElement({ isOpen, toggleSidebar }) {
+  console.log(isOpen);
+  console.log(toggleSidebar);
   return (
     <SidebarContainer isOpen={isOpen}>
       <Icon onClick={toggleSidebar}>
