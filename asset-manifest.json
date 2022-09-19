@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/landingPage/static/css/main.f1dc45d5.chunk.css",
-    "main.js": "/landingPage/static/js/main.83e577cd.chunk.js",
-    "main.js.map": "/landingPage/static/js/main.83e577cd.chunk.js.map",
+    "main.css": "/landingPage/static/css/main.b81b01c8.chunk.css",
+    "main.js": "/landingPage/static/js/main.7d64cf43.chunk.js",
+    "main.js.map": "/landingPage/static/js/main.7d64cf43.chunk.js.map",
     "runtime-main.js": "/landingPage/static/js/runtime-main.e0fbe350.js",
     "runtime-main.js.map": "/landingPage/static/js/runtime-main.e0fbe350.js.map",
     "static/js/2.c2658efa.chunk.js": "/landingPage/static/js/2.c2658efa.chunk.js",
     "static/js/2.c2658efa.chunk.js.map": "/landingPage/static/js/2.c2658efa.chunk.js.map",
     "index.html": "/landingPage/index.html",
-    "static/css/main.f1dc45d5.chunk.css.map": "/landingPage/static/css/main.f1dc45d5.chunk.css.map",
+    "static/css/main.b81b01c8.chunk.css.map": "/landingPage/static/css/main.b81b01c8.chunk.css.map",
     "static/js/2.c2658efa.chunk.js.LICENSE.txt": "/landingPage/static/js/2.c2658efa.chunk.js.LICENSE.txt",
     "static/media/bot-shape.8f2d4caa.png": "/landingPage/static/media/bot-shape.8f2d4caa.png",
     "static/media/bottom-shape-2.286541c8.png": "/landingPage/static/media/bottom-shape-2.286541c8.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.e0fbe350.js",
     "static/js/2.c2658efa.chunk.js",
-    "static/css/main.f1dc45d5.chunk.css",
-    "static/js/main.83e577cd.chunk.js"
+    "static/css/main.b81b01c8.chunk.css",
+    "static/js/main.7d64cf43.chunk.js"
   ]
 }
