@@ -6,17 +6,11 @@ export const SubscribeSectionContainer = styled.div`
   width: 100%;
   height: 100%;
   background-image: url(${topShape}), url(${bottomShape});
-  background-size: 100%, 100%;
+  background-size: 100% 20%, 100%;
   background-position: top, bottom;
   background-repeat: no-repeat, no-repeat;
   background-color: #deb37e;
-  padding: 240px 0 140px;
-  @media screen and (max-width: 1200px) {
-    padding: 200px 0 140px;
-  }
-  @media screen and (max-width: 968px) {
-    padding: 180px 0 120px;
-  }
+  padding: 200px 0;
 `;
 
 export const SubscribeSectionWrapper = styled.div`
