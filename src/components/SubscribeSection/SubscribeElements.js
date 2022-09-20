@@ -4,13 +4,15 @@ import bottomShape from "../../images/bottom-shape-4.png";
 
 export const SubscribeSectionContainer = styled.div`
   width: 100%;
-  height: 100%;
   background-image: url(${topShape}), url(${bottomShape});
-  background-size: 100% 20%, 100%;
+  background-size: 100% 30%, contain;
   background-position: top, bottom;
   background-repeat: no-repeat, no-repeat;
   background-color: #deb37e;
-  padding: 200px 0;
+  padding: 250px 0;
+  @media screen and (max-width: 768px) {
+    padding: 200px 0 100px;
+  }
 `;
 
 export const SubscribeSectionWrapper = styled.div`
@@ -18,6 +20,7 @@ export const SubscribeSectionWrapper = styled.div`
 `;
 export const SubscribeSectionTitle = styled.h1`
   font-size: 75px;
+  margin-top: 100px;
   font-weight: 700;
   color: white;
   margin-bottom: 64px;
