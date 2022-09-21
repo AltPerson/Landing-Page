@@ -5,7 +5,7 @@ import botShape from "../../images/bottom-shape-hero.png";
 import { Link } from "react-scroll";
 
 export const HeroContainer = styled.div`
-  height: calc(100vh - 150px);
+  height: calc(100vh - 50px);
   z-index: 1;
   margin: 0 auto;
 `;
@@ -25,11 +25,17 @@ export const HeroContent = styled.div`
   margin: 0 auto;
   flex-direction: column;
   align-items: left;
-  padding: 300px 20px;
+  padding: 150px 20px;
   text-transform: uppercase;
   @media screen and (max-width: 768px) {
     align-items: center;
     text-align: center;
+  }
+  @media screen and (min-width: 1450px) {
+    padding: 200px 20px;
+  }
+  @media screen and (min-width: 2560px) {
+    padding: 300px 20px;
   }
 `;
 

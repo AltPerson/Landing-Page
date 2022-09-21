@@ -5,7 +5,6 @@ import botShapeImage from "../../images/bot-shape.png";
 
 export const ReviewSectionContainer = styled.div`
   width: 100%;
-  height: auto;
 `;
 export const ReviewSectionWrapper = styled.div`
   text-align: center;
