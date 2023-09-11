@@ -9,7 +9,7 @@ As a template was used a free PSD template.<br>
 
 ## USED TECHNIQUES<br>
 FRAMEWORK - React<br>
-LIBRARY - StyledComponents,SmoothScroll
+LIBRARY - StyledComponents,React-scroll<br>
 METHODS - ReactHooks(useState)<br>
 ## URL:https://altperson.github.io/landingPage/<br>
 ## BRANCHES<br>
