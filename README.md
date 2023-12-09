@@ -11,7 +11,7 @@ As a template was used a free PSD template.<br>
 FRAMEWORK - React<br>
 LIBRARY - StyledComponents,React-scroll<br>
 METHODS - ReactHooks(useState)<br>
-## URL:https://altperson.github.io/landingPage/<br>
+## URL:https://altperson.github.io/Landing-Page/<br>
 ## BRANCHES<br>
 MASTER - Source code of Project<br>
 GH-PAGES - Builded version
